@@ -1,0 +1,19 @@
+﻿/*
+Author: Chris Kirby
+Created: 1/8/2016
+Updated: 1/8/2016
+*/
+
+body
+{
+	width:90%;
+	margin-top:20px;
+	margin-bottom:20px;
+	margin-left:auto;
+	margin-right:auto;
+	
+	/*shorthand of margin*/
+	margin:20px auto;
+	
+	background-color:rgb(255, 0, 0);
+}
